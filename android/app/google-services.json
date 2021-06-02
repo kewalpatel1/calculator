@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "558379093425",
+    "firebase_url": "https://calculator-af7bf-default-rtdb.firebaseio.com",
+    "project_id": "calculator-af7bf",
+    "storage_bucket": "calculator-af7bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558379093425:android:28f67bf86aa7ade8978190",
+        "android_client_info": {
+          "package_name": "com.example.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558379093425-kj559qsge6v3e9dnokgaragnm9mqp56k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCTmtpHMdFJcSi38zrndTJwbbFZXMlW3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558379093425-kj559qsge6v3e9dnokgaragnm9mqp56k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
